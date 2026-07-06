@@ -1,0 +1,121 @@
+student_id,gender,grade_level,GPA,weight,breakfast,calories_day,calorie_awareness,healthy_feeling,life_rewarding,comfort_food_reason,comfort_food,cook,eating_out,exercise,fruit_day,veggies_day,vitamins,fries,sports,employment,income,on_off_campus,pay_meal_out,coffee,soup,drink,fav_cuisine,greek_food,indian_food,italian_food,thai_food,persian_food,marital_status,parents_cook,mother_education,father_education,self_perception_weight,nutritional_check,diet_current,health_category
+S001,female,2,3.17,135,cereal,1,3,4,2,Boredom,none,3,3,1,2,2,2,1,1,1,4,3,1,1,2,2,Thai,2,2,3,1,1,2,1,3,3,5,3,balanced,Unhealthy
+S002,female,1,3.56,168,cereal,4,3,9,7,Boredom,chocolate,4,2,3,5,2,2,2,1,2,6,3,2,2,2,1,American,3,1,5,2,5,3,2,2,4,4,3,calorie-conscious,Healthy
+S003,female,4,3.37,175,cereal,1,5,7,8,Boredom,chocolate,4,3,2,4,1,1,1,1,3,5,3,6,2,2,2,Indian,2,5,4,1,1,1,2,2,4,5,1,home-cooked preference,Unhealthy
+S004,female,2,3.71,180,cereal,3,3,9,10,Sadness,pizza,1,4,5,3,5,2,1,2,3,3,2,5,1,2,1,Indian,3,2,5,5,1,3,3,4,1,1,3,high fast food intake,Healthy
+S005,female,4,3.08,187,cereal,3,2,7,7,None,chocolate,4,3,2,3,1,2,2,2,3,2,3,4,2,2,2,Italian,2,2,1,3,1,3,5,2,5,2,1,balanced,Unhealthy
+S006,female,4,2.69,185,cereal,2,3,6,7,Stress,chocolate,3,2,1,1,1,1,1,2,2,4,4,4,1,1,1,Greek,3,1,2,2,2,3,4,2,4,2,3,home-cooked preference,Unhealthy
+S007,female,1,3.93,175,cereal,4,5,8,7,Stress,chocolate,1,2,5,3,4,2,1,2,2,4,3,4,2,1,1,Thai,2,1,5,5,1,3,3,1,1,5,4,calorie-conscious,Healthy
+S008,female,4,2.78,140,Donut,4,3,6,5,Stress,none,1,4,3,1,3,1,1,1,2,2,3,2,2,2,1,American,3,4,3,1,1,2,5,5,1,1,5,low vegetable intake,Unhealthy
+S009,female,1,3.25,168,cereal,3,3,7,8,Boredom,chocolate,2,2,2,2,1,1,1,2,3,5,2,3,2,1,2,Indian,3,5,4,3,1,1,4,3,1,1,3,low vegetable intake,Unhealthy
+S010,female,4,3.55,150,cereal,4,5,8,6,Sadness,chocolate,1,2,2,4,3,1,1,1,1,3,2,6,1,1,2,Mexican,5,4,5,2,2,1,2,4,1,2,3,home-cooked preference,Healthy
+S011,female,2,3.79,165,Donut,4,2,7,7,Boredom,chips,1,3,4,4,2,2,1,1,2,1,3,3,2,2,1,Italian,3,2,5,3,1,1,5,4,3,6,3,home-cooked preference,Healthy
+S012,female,1,3.32,180,cereal,4,3,9,10,Sadness,none,3,2,3,3,3,1,2,2,3,1,3,5,2,2,2,Greek,3,5,2,2,4,3,4,2,5,5,3,home-cooked preference,Healthy
+S013,female,1,3.35,155,cereal,2,2,6,8,Happiness,ice cream,3,2,1,2,3,1,1,2,2,1,2,6,2,1,1,Indian,1,1,2,4,5,1,4,4,5,2,4,home-cooked preference,Unhealthy
+S014,female,4,3.53,145,cereal,2,4,9,10,Stress,chocolate,4,4,2,3,4,2,2,2,3,5,3,4,2,2,1,American,4,4,3,2,3,3,4,2,3,4,1,high fast food intake,Healthy
+S015,female,4,3.13,180,cereal,2,3,7,8,Stress,cookies,3,2,2,5,1,1,2,1,3,4,4,1,2,2,2,Mexican,4,5,5,5,2,2,2,3,4,4,1,home-cooked preference,Healthy
+S016,female,4,3.59,150,cereal,1,3,8,9,Boredom,chocolate,2,2,3,3,2,2,1,1,1,4,3,3,2,2,2,Thai,1,4,1,5,1,2,2,1,1,1,2,low vegetable intake,Healthy
+S017,female,2,3.41,265,Donut,2,3,7,8,None,ice cream,5,2,3,2,3,1,1,1,2,5,4,4,1,1,1,Italian,3,5,1,5,1,2,5,4,3,1,5,high fast food intake,Unhealthy
+S018,female,4,3.68,190,cereal,1,2,8,9,Boredom,pizza,4,2,3,3,3,1,1,2,2,3,2,1,2,2,1,Mexican,4,5,5,4,3,1,4,3,2,4,2,high fast food intake,Healthy
+S019,female,4,3.61,205,Donut,1,4,7,8,Sadness,pizza,1,2,2,4,3,2,2,1,1,4,2,3,2,2,2,Greek,5,3,3,4,3,2,3,2,1,6,2,high fast food intake,Healthy
+S020,female,2,3.49,170,cereal,4,3,7,5,Sadness,ice cream,3,2,3,4,2,2,1,1,2,1,1,5,2,1,2,Italian,1,5,3,4,4,2,3,2,1,3,4,balanced,Healthy
+S021,female,2,3.34,200,Donut,2,5,4,5,Sadness,cookies,2,1,3,1,3,2,1,2,2,5,4,3,1,1,1,American,2,3,1,2,2,1,5,1,2,1,4,home-cooked preference,Unhealthy
+S022,female,1,3.43,180,cereal,2,2,7,8,Sadness,cookies,4,2,3,1,2,1,1,1,2,2,1,1,1,2,2,Greek,1,4,3,4,3,3,5,4,4,1,5,balanced,Unhealthy
+S023,female,2,3.11,265,Donut,3,1,7,9,Boredom,pizza,3,2,4,3,1,2,1,1,2,2,4,6,2,1,2,Thai,4,3,3,1,2,2,4,4,3,6,4,calorie-conscious,Healthy
+S024,female,4,3.18,200,cereal,1,4,6,6,Boredom,none,4,3,1,2,2,2,1,1,2,5,2,3,2,2,1,Italian,5,2,2,3,5,1,5,4,1,2,1,home-cooked preference,Unhealthy
+S025,female,2,3.31,200,Donut,2,3,7,8,Boredom,chips,3,2,3,2,5,1,1,2,2,3,3,1,2,2,2,Mexican,2,4,5,4,3,2,5,5,4,4,3,low vegetable intake,Healthy
+S026,female,1,3.68,185,Donut,4,3,8,10,Sadness,chocolate,2,2,2,3,4,1,1,2,1,4,1,5,2,1,1,Greek,2,1,4,3,3,3,4,1,3,6,5,home-cooked preference,Healthy
+S027,female,1,3.79,265,Donut,3,2,6,7,Boredom,pizza,3,2,3,4,3,1,1,1,1,1,3,1,2,2,2,Greek,2,2,5,4,5,3,2,2,2,1,5,home-cooked preference,Healthy
+S028,female,3,3.24,170,cereal,1,4,7,8,Stress,none,2,2,2,5,2,1,2,2,2,3,2,4,2,1,1,Greek,5,3,5,3,3,1,4,3,1,5,1,calorie-conscious,Healthy
+S029,female,1,4.0,205,cereal,2,2,10,10,Sadness,none,4,2,4,5,4,1,1,1,2,1,3,6,1,1,2,Thai,4,2,2,2,5,2,5,5,3,2,3,home-cooked preference,Healthy
+S030,female,1,3.79,170,Donut,2,4,8,8,None,pizza,1,2,2,4,4,2,1,1,2,3,3,5,2,2,1,American,2,4,1,5,5,2,5,2,1,6,4,high fast food intake,Healthy
+S031,female,4,2.85,190,cereal,3,3,4,5,None,cookies,1,5,1,1,1,1,2,1,2,6,1,4,2,2,1,American,3,2,4,4,2,2,1,3,5,6,3,balanced,Unhealthy
+S032,female,1,3.67,160,cereal,3,1,7,6,None,cookies,3,2,2,2,4,2,1,1,1,3,2,5,1,2,1,Indian,5,3,2,1,1,1,1,3,2,5,3,balanced,Healthy
+S033,female,3,3.23,210,cereal,2,2,8,7,None,pizza,3,3,1,4,3,2,1,1,2,4,4,6,1,2,2,Italian,1,3,5,2,1,1,3,5,5,5,3,home-cooked preference,Healthy
+S034,female,4,3.47,165,Donut,3,4,8,10,Boredom,ice cream,3,1,3,3,3,2,2,1,3,1,3,4,2,2,2,Indian,4,1,1,1,1,2,1,3,2,5,1,calorie-conscious,Healthy
+S035,female,2,3.04,187,Donut,4,1,6,7,Boredom,chocolate,5,4,3,3,3,1,1,1,1,3,3,1,2,1,2,Mexican,5,5,5,5,1,3,3,1,2,3,3,high fast food intake,Unhealthy
+S036,female,3,3.18,168,cereal,1,3,7,7,Stress,cookies,3,1,2,2,3,2,1,2,1,2,1,6,1,2,2,American,4,4,5,4,4,2,2,5,1,3,4,balanced,Healthy
+S037,female,1,3.46,169,cereal,1,3,7,9,Boredom,chips,3,1,3,3,3,2,1,1,1,4,2,5,2,1,2,Mexican,1,4,1,4,1,2,5,4,5,4,4,high fast food intake,Healthy
+S038,female,3,3.4,175,cereal,1,4,6,6,Stress,none,4,3,1,2,4,2,1,1,1,1,1,5,1,2,2,American,2,2,1,2,3,1,2,5,2,6,1,low vegetable intake,Healthy
+S039,female,1,3.39,184,Donut,3,5,6,8,None,pizza,3,2,3,3,3,2,1,1,2,5,1,3,1,2,2,Greek,1,1,3,3,1,3,1,5,5,5,4,home-cooked preference,Healthy
+S040,female,1,3.74,169,cereal,3,3,7,7,Boredom,cookies,3,4,5,4,1,1,1,1,3,4,4,5,1,2,2,Thai,4,4,3,5,1,3,3,1,3,1,5,home-cooked preference,Healthy
+S041,female,1,3.61,260,cereal,1,3,10,10,Sadness,ice cream,2,4,4,3,5,2,1,2,2,2,1,6,2,2,1,Thai,3,2,2,3,4,1,2,2,2,1,3,balanced,Healthy
+S042,female,4,3.79,155,cereal,3,2,7,9,Sadness,chips,4,3,3,4,3,2,1,2,1,4,3,6,2,1,1,Thai,4,2,3,5,4,2,3,4,5,5,4,low vegetable intake,Healthy
+S043,female,2,3.19,184,Donut,1,4,4,4,Boredom,pizza,4,3,4,2,2,2,1,2,2,3,1,4,1,2,2,Indian,4,1,3,2,1,2,1,3,2,2,1,high fast food intake,Healthy
+S044,female,1,3.79,180,Donut,1,2,7,8,None,ice cream,3,2,3,4,4,2,1,1,1,4,4,1,1,2,1,American,5,5,2,2,3,2,1,5,3,2,5,home-cooked preference,Healthy
+S045,female,1,3.68,167,cereal,2,1,7,5,Sadness,ice cream,3,5,3,3,2,2,2,1,3,6,1,5,2,1,1,Thai,5,3,2,4,4,3,2,2,1,6,4,balanced,Healthy
+S046,female,3,3.17,138,cereal,3,2,6,5,Boredom,ice cream,3,5,1,2,1,2,1,1,2,6,4,4,2,1,2,American,4,3,5,3,1,3,4,1,4,5,2,calorie-conscious,Unhealthy
+S047,female,3,3.13,180,cereal,2,3,7,9,Happiness,none,3,2,1,2,2,1,2,2,1,6,4,3,1,1,1,Mexican,5,4,1,2,1,1,3,3,4,5,1,calorie-conscious,Unhealthy
+S048,female,1,3.5,175,cereal,2,2,6,4,Sadness,ice cream,2,1,3,3,3,1,2,2,1,5,3,6,2,1,1,Indian,1,4,2,4,1,3,3,3,1,5,5,high fast food intake,Healthy
+S049,female,3,3.55,190,Donut,1,2,8,7,Sadness,pizza,4,3,4,4,5,1,2,2,3,1,1,3,2,2,2,Mexican,4,5,1,2,3,3,1,4,4,6,5,high fast food intake,Healthy
+S050,female,2,3.41,260,cereal,4,4,9,8,Boredom,ice cream,2,3,4,3,3,1,2,1,2,1,3,2,2,1,2,Persian,5,1,5,2,5,3,2,2,5,6,5,high fast food intake,Healthy
+S051,female,3,3.39,205,Donut,3,4,6,7,Sadness,none,3,1,3,4,1,2,2,1,3,4,3,4,1,1,1,Greek,4,4,4,2,3,3,2,3,3,6,3,home-cooked preference,Healthy
+S052,female,3,3.24,155,cereal,1,2,7,9,Sadness,cookies,2,2,3,3,2,1,2,1,1,4,4,4,2,2,1,Italian,4,5,4,2,2,3,3,1,1,3,4,calorie-conscious,Healthy
+S053,female,3,3.43,160,Donut,3,4,6,4,Stress,cookies,3,4,3,3,3,2,1,1,2,5,3,5,1,1,1,Greek,3,3,5,3,2,1,5,5,4,5,1,balanced,Healthy
+S054,female,4,3.6,169,cereal,4,3,9,10,Sadness,none,4,2,4,4,3,1,1,1,1,3,3,6,1,2,2,Mexican,1,5,4,3,5,3,2,1,5,4,2,calorie-conscious,Healthy
+S055,female,4,3.72,180,cereal,1,1,7,7,Boredom,none,1,3,3,4,2,2,2,2,3,2,3,6,2,2,2,Indian,4,5,3,5,3,3,3,5,4,2,2,high fast food intake,Healthy
+S056,female,4,3.65,190,cereal,2,3,9,9,Boredom,pizza,2,2,2,5,2,2,2,2,1,3,1,3,1,2,2,American,3,4,2,2,5,2,5,3,2,1,5,calorie-conscious,Healthy
+S057,female,4,3.68,155,cereal,2,4,6,4,None,none,1,2,1,5,2,1,2,2,2,6,2,3,2,2,1,Mexican,1,5,2,5,1,1,4,2,1,4,4,low vegetable intake,Healthy
+S058,female,4,4.0,150,Donut,4,2,10,10,Stress,ice cream,3,1,5,5,4,1,1,1,1,6,4,6,2,1,1,American,3,3,5,2,2,3,4,4,5,3,1,home-cooked preference,Healthy
+S059,female,3,2.88,205,cereal,3,5,6,7,Sadness,none,2,2,2,2,2,1,1,2,2,3,2,4,2,1,2,Thai,5,2,2,2,4,1,4,5,3,4,5,home-cooked preference,Unhealthy
+S060,female,2,3.71,190,cereal,3,3,9,7,Happiness,cookies,3,3,4,4,4,2,1,1,3,4,1,6,1,2,1,Persian,4,1,4,2,5,2,4,5,1,5,4,high fast food intake,Healthy
+S061,female,2,3.67,265,cereal,1,5,7,7,Boredom,none,1,2,3,4,4,1,2,2,2,3,4,4,2,2,1,American,5,2,3,1,2,3,4,5,2,6,2,balanced,Healthy
+S062,female,4,3.44,210,cereal,2,2,8,9,Sadness,cookies,3,2,5,3,3,1,2,2,1,2,2,1,1,1,2,Persian,1,2,1,4,4,1,5,2,1,2,5,high fast food intake,Healthy
+S063,female,2,3.59,190,cereal,4,5,9,8,Stress,none,4,3,5,3,3,1,1,2,1,3,4,5,2,2,2,Indian,3,4,2,5,4,1,2,3,2,4,1,calorie-conscious,Healthy
+S064,female,1,3.23,175,cereal,2,3,8,9,Sadness,chips,2,2,3,3,3,1,1,2,3,6,2,4,1,2,2,Italian,2,2,1,4,2,3,5,2,4,2,5,high fast food intake,Healthy
+S065,female,3,3.64,170,cereal,1,5,7,9,Sadness,pizza,3,2,3,3,2,1,1,2,3,2,1,3,2,2,1,Indian,3,2,4,5,2,2,5,3,3,4,4,home-cooked preference,Healthy
+S066,female,1,3.88,210,cereal,3,1,7,9,Happiness,chips,4,2,4,2,4,1,1,2,1,1,2,1,1,2,2,Italian,5,5,4,4,1,1,5,5,4,1,1,calorie-conscious,Healthy
+S067,female,3,3.57,167,cereal,1,5,8,7,Boredom,ice cream,3,3,3,2,3,2,2,1,2,4,2,6,1,2,1,American,1,1,4,4,4,3,4,1,1,6,2,balanced,Healthy
+S068,female,3,3.23,140,cereal,1,2,9,10,Stress,cookies,1,4,3,4,3,1,1,1,2,1,2,5,1,2,1,Thai,2,5,2,5,4,3,5,3,4,6,2,balanced,Healthy
+S069,female,4,3.67,184,cereal,4,3,7,5,Sadness,chocolate,2,4,5,1,3,2,1,2,2,2,4,1,2,1,1,Italian,3,2,4,2,4,2,3,1,1,1,3,home-cooked preference,Healthy
+S070,female,1,3.06,175,cereal,1,3,4,5,Stress,ice cream,3,2,2,2,2,1,1,2,3,5,2,5,1,2,1,Indian,3,3,3,4,2,1,2,4,3,4,3,home-cooked preference,Unhealthy
+S071,female,4,3.65,169,Donut,1,1,8,8,Happiness,ice cream,3,2,3,5,4,1,1,2,3,5,2,3,2,1,2,Thai,2,4,3,3,4,3,2,3,4,3,4,high fast food intake,Healthy
+S072,female,4,3.73,180,cereal,2,4,8,10,Boredom,chocolate,3,3,3,3,3,2,1,1,3,2,4,4,1,2,2,Persian,4,5,5,4,5,1,3,5,5,6,1,balanced,Healthy
+S073,female,2,3.36,187,cereal,2,4,7,5,Boredom,pizza,5,1,3,2,3,2,1,1,3,5,2,3,1,2,1,Thai,4,1,1,2,3,2,3,4,2,5,4,high fast food intake,Healthy
+S074,male,2,3.79,165,cereal,4,4,9,10,Boredom,cookies,4,2,3,4,2,1,1,2,2,2,4,6,1,1,2,Greek,1,5,2,4,5,2,4,1,2,2,3,balanced,Healthy
+S075,male,3,3.55,145,cereal,2,5,7,8,Stress,ice cream,1,2,4,3,2,2,2,2,3,6,3,5,1,1,2,Italian,2,3,1,2,3,3,2,5,4,4,5,low vegetable intake,Healthy
+S076,male,1,3.46,170,cereal,1,2,7,7,Happiness,pizza,5,4,3,3,3,1,1,2,3,5,4,4,2,2,2,Greek,2,1,5,1,2,2,1,3,2,5,3,low vegetable intake,Healthy
+S077,male,2,3.66,184,Donut,3,5,8,10,Sadness,pizza,3,2,3,4,3,1,1,2,1,3,1,4,2,2,1,Greek,1,2,2,5,3,3,5,4,2,5,2,low vegetable intake,Healthy
+S078,male,4,3.39,265,Donut,2,3,8,9,Sadness,chips,2,3,4,3,3,2,2,2,1,6,2,2,1,2,1,Mexican,4,4,2,5,3,3,4,4,4,1,1,home-cooked preference,Healthy
+S079,male,4,3.51,140,cereal,3,4,9,9,Sadness,chocolate,2,5,2,5,2,1,2,2,2,3,3,3,2,1,2,Mexican,3,1,1,1,4,1,1,2,4,4,1,home-cooked preference,Healthy
+S080,male,3,3.19,175,cereal,3,2,7,8,Happiness,none,5,2,3,2,3,1,1,1,3,1,1,1,1,2,1,Indian,5,2,5,4,1,1,3,1,4,6,2,home-cooked preference,Healthy
+S081,male,1,3.29,187,cereal,3,4,7,8,None,cookies,4,2,3,4,2,1,1,1,3,2,2,4,2,1,1,Italian,2,1,5,4,3,2,3,2,2,3,1,low vegetable intake,Healthy
+S082,male,2,3.6,138,cereal,2,3,9,8,Sadness,pizza,4,3,3,3,4,2,1,1,3,5,1,5,1,2,2,Indian,4,5,4,3,5,3,2,4,1,1,5,balanced,Healthy
+S083,male,3,3.96,150,cereal,3,3,9,7,Sadness,chips,2,2,2,5,5,2,1,1,1,2,3,4,1,2,2,American,2,1,2,1,4,1,4,5,5,1,3,low vegetable intake,Healthy
+S084,male,1,3.47,145,cereal,3,2,7,8,Sadness,ice cream,3,5,4,4,2,2,2,1,1,3,1,4,2,2,1,Greek,5,2,3,2,3,1,5,1,2,6,5,balanced,Healthy
+S085,male,4,3.44,165,cereal,4,3,9,10,Sadness,none,2,2,4,2,3,2,1,2,3,3,1,5,1,1,1,Mexican,5,1,4,1,4,2,3,3,1,5,4,balanced,Healthy
+S086,male,4,3.57,135,cereal,4,4,9,10,Sadness,chips,2,2,2,4,4,2,1,1,3,1,3,1,2,2,1,Indian,5,2,4,4,1,1,3,1,1,2,5,home-cooked preference,Healthy
+S087,male,3,3.34,167,Donut,1,3,7,8,None,pizza,2,1,3,5,1,2,2,2,2,4,3,2,1,1,1,Mexican,5,1,2,1,2,2,4,3,4,1,5,high fast food intake,Healthy
+S088,male,2,3.07,140,Donut,3,4,3,2,Sadness,ice cream,2,2,2,2,2,2,1,1,2,3,2,1,2,2,1,Italian,4,1,2,1,1,1,2,2,2,4,3,balanced,Unhealthy
+S089,male,4,3.26,155,cereal,1,5,6,4,Boredom,none,4,1,2,4,1,1,1,1,3,4,2,3,1,1,2,Thai,4,2,1,5,5,3,2,3,4,4,5,home-cooked preference,Unhealthy
+S090,male,3,3.16,185,cereal,3,4,6,8,Sadness,cookies,3,4,2,2,2,2,1,1,1,1,3,5,1,1,2,Italian,4,5,3,5,2,1,1,2,2,3,5,balanced,Unhealthy
+S091,male,1,3.86,195,Donut,1,2,8,10,Sadness,none,5,2,5,3,5,2,2,2,3,2,2,4,2,1,2,Italian,1,1,2,5,2,1,5,4,1,3,5,low vegetable intake,Healthy
+S092,male,3,3.09,140,Donut,3,2,4,6,Stress,none,1,4,2,2,4,1,2,1,1,3,3,3,1,1,2,Mexican,4,3,2,5,5,2,2,5,2,4,3,high fast food intake,Unhealthy
+S093,male,2,3.92,185,cereal,1,3,10,9,Sadness,ice cream,5,2,4,5,5,2,2,1,2,2,1,6,2,2,1,Thai,2,2,1,3,3,1,1,1,4,4,4,low vegetable intake,Healthy
+S094,male,1,3.71,168,Donut,3,4,6,6,Boredom,ice cream,3,2,3,3,3,2,1,1,2,2,4,2,1,1,2,Persian,5,4,1,4,2,3,4,2,1,1,3,low vegetable intake,Healthy
+S095,male,4,3.34,135,Donut,1,3,8,10,Stress,chips,3,2,3,3,5,1,1,2,3,4,2,1,1,1,1,American,3,1,4,1,3,2,4,4,3,1,5,home-cooked preference,Healthy
+S096,male,4,3.6,190,cereal,2,1,9,10,Boredom,cookies,3,2,4,2,3,1,1,1,2,5,4,5,2,1,2,Thai,1,4,1,5,5,3,5,5,2,1,4,low vegetable intake,Healthy
+S097,male,1,3.06,264,Donut,2,4,4,6,Stress,chips,1,1,2,2,2,2,1,1,2,3,4,1,2,1,2,Indian,2,5,5,5,1,1,5,1,3,5,3,home-cooked preference,Unhealthy
+S098,male,3,3.34,185,cereal,3,3,8,8,Sadness,ice cream,3,2,3,3,3,2,1,2,2,3,3,4,1,1,1,Thai,4,3,3,4,5,3,1,2,4,2,4,home-cooked preference,Healthy
+S099,male,1,3.84,160,Donut,1,4,8,6,Boredom,chocolate,2,2,4,4,3,1,1,1,2,6,2,3,2,2,2,American,1,1,2,3,4,3,4,2,4,5,5,high fast food intake,Healthy
+S100,male,3,3.45,160,cereal,4,4,7,9,Boredom,none,1,1,4,2,4,1,1,1,3,1,4,2,1,1,1,Thai,5,3,3,4,4,2,4,3,2,4,3,calorie-conscious,Healthy
+S101,male,3,2.91,167,Donut,3,3,5,6,Boredom,ice cream,4,3,3,1,3,1,1,2,3,3,2,2,1,1,2,American,3,2,1,4,3,2,4,4,4,6,1,calorie-conscious,Unhealthy
+S102,male,2,3.7,190,Donut,4,4,7,7,Happiness,ice cream,3,2,3,2,4,2,1,1,2,6,2,6,2,1,1,Thai,2,3,4,3,3,2,5,3,4,1,4,balanced,Healthy
+S103,male,3,3.17,160,Donut,2,2,5,7,Happiness,pizza,3,4,3,5,1,2,2,2,2,2,3,6,1,1,2,Thai,2,3,1,1,4,2,2,2,5,2,4,balanced,Healthy
+S104,male,1,3.31,210,cereal,3,5,7,9,Sadness,none,1,2,3,3,3,1,2,1,2,3,2,1,2,2,1,Italian,1,3,3,4,5,3,5,3,4,6,2,high fast food intake,Healthy
+S105,male,3,3.28,145,Donut,2,5,6,7,Boredom,none,4,4,3,4,2,1,1,1,3,3,1,5,1,1,1,Italian,1,4,4,4,1,3,3,4,2,2,1,high fast food intake,Unhealthy
+S106,male,2,3.39,200,cereal,2,3,6,4,Sadness,ice cream,3,3,1,3,3,2,2,2,2,6,4,3,1,1,2,Indian,4,3,2,1,1,3,1,1,5,6,4,low vegetable intake,Healthy
+S107,male,3,3.5,168,Donut,4,2,5,3,Sadness,none,3,4,4,1,4,1,1,2,1,1,1,2,1,2,2,Greek,5,3,1,3,3,1,1,4,4,4,3,home-cooked preference,Unhealthy
+S108,male,4,3.6,195,Donut,4,4,6,6,Happiness,chocolate,2,2,3,3,4,2,1,2,3,1,2,4,2,1,2,Greek,1,1,3,3,1,3,5,5,5,2,3,calorie-conscious,Healthy
+S109,male,4,3.59,155,cereal,2,4,8,9,Boredom,pizza,2,2,4,1,3,2,2,1,2,3,2,3,2,1,1,Persian,4,4,2,1,4,2,5,4,1,4,4,high fast food intake,Healthy
+S110,male,4,3.4,160,cereal,1,3,8,9,Boredom,ice cream,3,2,3,3,2,1,1,1,1,4,3,5,2,2,2,Italian,1,2,1,3,3,3,3,5,5,3,1,balanced,Healthy
+S111,male,1,3.42,169,Donut,1,4,7,7,Sadness,pizza,2,2,3,4,4,1,1,2,3,5,1,4,2,1,2,Italian,5,1,5,4,5,2,5,2,5,2,2,balanced,Healthy
+S112,male,3,3.5,180,cereal,3,2,8,8,Stress,none,5,2,3,4,3,2,1,1,3,5,2,2,1,2,2,American,2,2,5,5,3,3,1,3,5,4,5,calorie-conscious,Healthy
+S113,male,2,3.34,167,Donut,1,2,8,7,Boredom,ice cream,4,2,4,3,4,1,1,1,1,6,3,2,1,2,2,Italian,5,5,2,5,4,1,5,3,1,4,4,home-cooked preference,Healthy
+S114,male,2,3.7,265,Donut,3,5,6,7,Sadness,none,2,1,5,2,3,2,2,1,1,6,1,2,1,1,2,Italian,4,3,5,3,2,1,5,3,1,3,4,low vegetable intake,Healthy
+S115,male,1,3.85,155,cereal,3,3,8,10,Sadness,cookies,4,3,5,3,4,1,1,1,2,1,3,2,1,2,2,Thai,3,2,5,5,4,3,1,1,3,4,2,calorie-conscious,Healthy
+S116,male,4,3.09,187,Donut,2,4,4,5,Sadness,pizza,4,2,2,1,4,1,1,2,1,3,1,1,1,1,1,Indian,2,4,1,2,5,3,4,1,2,1,4,high fast food intake,Unhealthy
+S117,male,1,3.1,145,cereal,2,3,6,6,Boredom,none,4,1,1,2,2,2,2,1,3,5,1,6,1,2,1,Thai,3,5,1,3,4,2,4,1,4,2,5,low vegetable intake,Unhealthy
+S118,male,2,3.88,190,cereal,4,4,9,10,Boredom,chips,2,5,3,4,3,2,1,2,2,5,1,3,1,2,1,Greek,5,2,2,2,2,3,3,2,1,2,5,balanced,Healthy
+S119,male,1,3.93,165,Donut,1,4,9,9,Boredom,ice cream,2,2,5,5,3,1,1,2,2,4,4,3,2,1,2,Mexican,3,4,2,1,3,1,2,4,3,3,2,high fast food intake,Healthy
+S120,male,1,3.42,205,Donut,4,4,4,5,Boredom,none,2,2,3,2,2,2,1,1,3,6,1,5,2,1,1,Persian,3,5,5,4,2,2,4,2,5,6,3,low vegetable intake,Unhealthy
